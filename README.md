@@ -2,6 +2,10 @@
 
 A mini-app for the [Cloudinary Creators November Mini-Hack 2026](https://cloudinarycreators.com/hackathons/november-mini-hack-2026). A full-screen Maasai portrait collage opens an experience of beadwork, a spear-at-the-entrance story, song, celebration, a contributor-supplied photo gallery, a five-frame shuka colour story, and downloadable cards. The Festival section includes a four-photo beadwork story about materials, identity, and colour, plus an optional AI virtual try-on.
 
+**[Explore the live demo](https://stories-woven-in-beads.vercel.app/)** · [Image credits and cultural sources](https://stories-woven-in-beads.vercel.app/credits.html)
+
+![Stories Woven in Beads landing page](./preview.png)
+
 ## Run locally
 
 From this folder, set your Cloudinary API credentials as server environment variables and run:
