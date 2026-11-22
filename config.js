@@ -1,0 +1,33 @@
+// Public Cloudinary cloud name is set. Add the uploaded image public IDs below.
+// Never put an API key or API secret in this file.
+window.STORIES_CONFIG = {
+  cloudName: "do52esnhp",
+  visitorUploadPreset: "festival_visitor_photos_2026",
+  publicIds: {
+    landing: "stories-woven-in-beads/maasai-landing",
+    spear: "stories-woven-in-beads/spear-at-entrance",
+    beadworkPortrait1: "stories-woven-in-beads/beadwork-portrait-1",
+    beadworkDetail: "stories-woven-in-beads/beadwork-detail",
+    beadworkBasket: "stories-woven-in-beads/beadwork-basket",
+    beadworkPortrait2: "stories-woven-in-beads/beadwork-portrait-2",
+    spearVideo: "stories-woven-in-beads/spear-throwing",
+    festivalBaseVideo: "stories-woven-in-beads/festival-base-12s",
+    hero: "stories-woven-in-beads/hero-kajiado",
+    hands: "stories-woven-in-beads/hands-at-work",
+    craft: "stories-woven-in-beads/beaded-necklace",
+    market: "stories-woven-in-beads/nairobi-market-necklaces",
+    shuka1: "stories-woven-in-beads/shuka-story-1",
+    shuka2: "stories-woven-in-beads/shuka-story-2",
+    shuka3: "stories-woven-in-beads/shuka-story-3",
+    shuka4: "stories-woven-in-beads/shuka-story-4",
+    shuka5: "stories-woven-in-beads/shuka-story-5",
+    voices1: "stories-woven-in-beads/voices-1",
+    voices2: "stories-woven-in-beads/voices-2",
+    voices3: "stories-woven-in-beads/voices-3",
+    voices4: "stories-woven-in-beads/voices-4",
+    voices5: "stories-woven-in-beads/voices-5",
+    voices6: "stories-woven-in-beads/voices-6",
+    voices7: "stories-woven-in-beads/voices-7",
+    voices8: "stories-woven-in-beads/voices-8",
+  },
+};
